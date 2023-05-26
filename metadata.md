@@ -140,7 +140,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/M3ssman/gt-test/releases/download/v1.0.4/bagitDump-v7.zip">Current version download: bagitDump-v7.zip</a>
+         <a href="https://github.com/M3ssman/gt-test/releases/download/v1.1.0/bagitDump-v8.zip">Current version download: bagitDump-v8.zip</a>
       </li>
       <li>
          <a href="https://github.com/M3ssman/gt-test/releases">Version archive</a>

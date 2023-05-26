@@ -235,7 +235,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/M3ssman/gt-test/blob/v1.0.4/data/corpus-odem-2021/GT-PAGE/urn+nbn+de+gbv+3+1-142331-p0182-2_lat+ger.gt.xml">urn+nbn+de+gbv+3+1-142331-p0182-2_lat+ger.gt.xml</a>
+                              <a href="https://github.com/M3ssman/gt-test/blob/v1.1.0/data/corpus-odem-2021/GT-PAGE/urn+nbn+de+gbv+3+1-142331-p0182-2_lat+ger.gt.xml">urn+nbn+de+gbv+3+1-142331-p0182-2_lat+ger.gt.xml</a>
                            </td>
                            <td>37</td>
                            <td>1</td>
