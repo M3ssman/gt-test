@@ -132,25 +132,5 @@
          <th>Page</th>
       </tr>
    </thead>
-   <tbody>
-      <tr>
-         <th>urn+nbn+de+gbv+3+1-142331-p0182-2_lat+ger.gt.xml</th>
-         <td>15</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>37</td>
-         <td>1</td>
-      </tr>
-   </tbody>
+   <tbody/>
 </table>

@@ -187,78 +187,7 @@
                <th>CustomRegion</th>
             </tr>
          </thead>
-         <tbody>
-            <tr>
-               <th>corpus-odem-2021</th>
-               <td>37</td>
-               <td>1</td>
-               <td>15</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-            </tr>
-            <tr>
-               <td colspan="17" style="text-align:left !important;">
-                  <details>
-                     <summary>Overview</summary>
-                     <table>
-                        <thead>
-                           <tr>
-                              <th>document</th>
-                              <th>TextLine</th>
-                              <th>Page</th>
-                              <th>TxtRegion</th>
-                              <th>ImgRegion</th>
-                              <th>LineDrawRegion</th>
-                              <th>GraphRegion</th>
-                              <th>TabRegion</th>
-                              <th>ChartRegion</th>
-                              <th>SepRegion</th>
-                              <th>MathRegion</th>
-                              <th>ChemRegion</th>
-                              <th>MusicRegion</th>
-                              <th>AdRegion</th>
-                              <th>NoiseRegion</th>
-                              <th>UnkownRegion</th>
-                              <th>CustomRegion</th>
-                           </tr>
-                        </thead>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/M3ssman/gt-test/blob/v1.1.0/data/corpus-odem-2021/GT-PAGE/urn+nbn+de+gbv+3+1-142331-p0182-2_lat+ger.gt.xml">urn+nbn+de+gbv+3+1-142331-p0182-2_lat+ger.gt.xml</a>
-                           </td>
-                           <td>37</td>
-                           <td>1</td>
-                           <td>15</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                     </table>
-                  </details>
-               </td>
-            </tr>
-         </tbody>
+         <tbody/>
       </table>
    </div>
 </div>
