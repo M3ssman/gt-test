@@ -189,7 +189,7 @@
          </thead>
          <tbody>
             <tr>
-               <th>corpus-odem-2021</th>
+               <th>corpus-odem-2021/lat</th>
                <td>302</td>
                <td>8</td>
                <td>43</td>
@@ -235,7 +235,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/M3ssman/gt-test/blob/v2.0.6/data/corpus-odem-2021/GT-PAGE/urn+nbn+de+gbv+3+1-842201-p0538-0_lat.gt.xml">urn+nbn+de+gbv+3+1-842201-p0538-0_lat.gt.xml</a>
+                              <a href="https://github.com/M3ssman/gt-test/blob/v2.0.7/data/corpus-odem-2021/lat/GT-PAGE/urn+nbn+de+gbv+3+1-842201-p0538-0_lat.gt.xml">urn+nbn+de+gbv+3+1-842201-p0538-0_lat.gt.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -256,7 +256,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/M3ssman/gt-test/blob/v2.0.6/data/corpus-odem-2021/GT-PAGE/urn+nbn+de+gbv+3+1-770985-p0152-7_lat.gt.xml">urn+nbn+de+gbv+3+1-770985-p0152-7_lat.gt.xml</a>
+                              <a href="https://github.com/M3ssman/gt-test/blob/v2.0.7/data/corpus-odem-2021/lat/GT-PAGE/urn+nbn+de+gbv+3+1-770985-p0152-7_lat.gt.xml">urn+nbn+de+gbv+3+1-770985-p0152-7_lat.gt.xml</a>
                            </td>
                            <td>39</td>
                            <td>1</td>
@@ -277,7 +277,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/M3ssman/gt-test/blob/v2.0.6/data/corpus-odem-2021/GT-PAGE/urn+nbn+de+gbv+3+1-703538-p0544-6_lat.gt.xml">urn+nbn+de+gbv+3+1-703538-p0544-6_lat.gt.xml</a>
+                              <a href="https://github.com/M3ssman/gt-test/blob/v2.0.7/data/corpus-odem-2021/lat/GT-PAGE/urn+nbn+de+gbv+3+1-703538-p0544-6_lat.gt.xml">urn+nbn+de+gbv+3+1-703538-p0544-6_lat.gt.xml</a>
                            </td>
                            <td>34</td>
                            <td>1</td>
@@ -298,7 +298,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/M3ssman/gt-test/blob/v2.0.6/data/corpus-odem-2021/GT-PAGE/urn+nbn+de+gbv+3+1-331894-p0412-6_lat.gt.xml">urn+nbn+de+gbv+3+1-331894-p0412-6_lat.gt.xml</a>
+                              <a href="https://github.com/M3ssman/gt-test/blob/v2.0.7/data/corpus-odem-2021/lat/GT-PAGE/urn+nbn+de+gbv+3+1-331894-p0412-6_lat.gt.xml">urn+nbn+de+gbv+3+1-331894-p0412-6_lat.gt.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -319,7 +319,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/M3ssman/gt-test/blob/v2.0.6/data/corpus-odem-2021/GT-PAGE/urn+nbn+de+gbv+3+1-428479-p0029-8_lat.gt.xml">urn+nbn+de+gbv+3+1-428479-p0029-8_lat.gt.xml</a>
+                              <a href="https://github.com/M3ssman/gt-test/blob/v2.0.7/data/corpus-odem-2021/lat/GT-PAGE/urn+nbn+de+gbv+3+1-428479-p0029-8_lat.gt.xml">urn+nbn+de+gbv+3+1-428479-p0029-8_lat.gt.xml</a>
                            </td>
                            <td>39</td>
                            <td>1</td>
@@ -340,7 +340,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/M3ssman/gt-test/blob/v2.0.6/data/corpus-odem-2021/GT-PAGE/urn+nbn+de+gbv+3+1-799224-p0090-7_lat.gt.xml">urn+nbn+de+gbv+3+1-799224-p0090-7_lat.gt.xml</a>
+                              <a href="https://github.com/M3ssman/gt-test/blob/v2.0.7/data/corpus-odem-2021/lat/GT-PAGE/urn+nbn+de+gbv+3+1-799224-p0090-7_lat.gt.xml">urn+nbn+de+gbv+3+1-799224-p0090-7_lat.gt.xml</a>
                            </td>
                            <td>57</td>
                            <td>1</td>
@@ -361,7 +361,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/M3ssman/gt-test/blob/v2.0.6/data/corpus-odem-2021/GT-PAGE/urn+nbn+de+gbv+3+1-757909-p0542-9_lat.gt.xml">urn+nbn+de+gbv+3+1-757909-p0542-9_lat.gt.xml</a>
+                              <a href="https://github.com/M3ssman/gt-test/blob/v2.0.7/data/corpus-odem-2021/lat/GT-PAGE/urn+nbn+de+gbv+3+1-757909-p0542-9_lat.gt.xml">urn+nbn+de+gbv+3+1-757909-p0542-9_lat.gt.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -382,7 +382,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/M3ssman/gt-test/blob/v2.0.6/data/corpus-odem-2021/GT-PAGE/urn+nbn+de+gbv+3+1-806751-p0354-4_lat.gt.xml">urn+nbn+de+gbv+3+1-806751-p0354-4_lat.gt.xml</a>
+                              <a href="https://github.com/M3ssman/gt-test/blob/v2.0.7/data/corpus-odem-2021/lat/GT-PAGE/urn+nbn+de+gbv+3+1-806751-p0354-4_lat.gt.xml">urn+nbn+de+gbv+3+1-806751-p0354-4_lat.gt.xml</a>
                            </td>
                            <td>34</td>
                            <td>1</td>
