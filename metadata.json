@@ -31,11 +31,29 @@
   "gtTyp": "data_structure_and_text",
   "format": "Page-XML",
   "transcription-guidelines": "OCR-D-GT",
-  "volume": {},
+  "volume": {
+    "TxtRegion": "43",
+    "GraphRegion": "1",
+    "SepRegion": "1",
+    "TextLine": "302",
+    "Page": "8"
+  },
   "labelling": [
     "content-type/corpus",
     "platform/platform-independent",
     "content-encoding/structured",
+    "activityDomain/computing/visual/analysisRecognition/text",
+    "activityDomain/computing/visual/analysisRecognition/ocr",
+    "activityDomain/computing/visual/analysisRecognition/layoutAnalysis",
+    "contentOfInterest/visual/text",
+    "contentOfInterest/visual/graphical",
+    "contentOfInterest/visual/graphical/separator",
+    "granularity/physical/document-related/page",
+    "granularity/physical/document-related/text-line",
+    "granularity/physical/document-related/word",
+    "data-attributes/document-related/structural/footnotes",
+    "data-attributes/document-related/structural/running-titles",
+    "data-attributes/document-related/visual/text/drop-caps",
     "data-attributes/document-related/visual/text/font/typeface/blackletter",
     "data-attributes/document-related/visual/text/font/typeface/antiqua"
   ]
