@@ -73,7 +73,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/M3ssman/gt-test/releases/tag/v2.1.0">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 18_v2.1.0</a>
+         <a href="https://github.com/M3ssman/gt-test/releases/tag/v2.1.1">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 19_v2.1.1</a>
       </li>
       <li>
          <a href="https://github.com/M3ssman/gt-test/releases">Version archive</a>
