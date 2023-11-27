@@ -1,0 +1,33 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="PAGE_01" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>OCR-D/core 2.33.0</Creator>
+        <Created>2022-05-30T06:22:53</Created>
+        <LastChange>2022-08-23T16:13:06.937+02:00</LastChange>
+        <Comments/>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="7" status="IN_PROGRESS"/>
+    </Metadata>
+    <Page imageFilename="MAX/urn+nbn+de+gbv+3+1-252389-p0185-0_ger.png" imageWidth="1191" imageHeight="2236" type="content" primaryLanguage="ger">
+        <AlternativeImage filename="OCR-D-BINPAGE/OCR-D-BINPAGE_01-BIN_sauvola-ms-split.png" comments="binarized"/>
+        <AlternativeImage filename="OCR-D-SEG-PAGE-ANYOCR/OCR-D-SEG-PAGE-ANYOCR_01.IMG-CROP.png" comments="binarized,cropped"/>
+        <AlternativeImage filename="OCR-D-DENOISE-OCROPY/OCR-D-DENOISE-OCROPY_01.IMG-DESPECK.png" comments="binarized,cropped,despeckled"/>
+        <AlternativeImage filename="OCR-D-SEG-BLOCK-TESSERACT/OCR-D-SEG-BLOCK-TESSERACT_01.IMG-BIN.png" comments="binarized,cropped,despeckled,binarized,clipped"/>
+        <AlternativeImage filename="OCR-D-CLIP/OCR-D-CLIP_01_region0000.IMG-CLIP.png" comments="binarized,despeckled,binarized,clipped"/>
+        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0000_region0000_line0001.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
+        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0000_region0000_line0002.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
+        <AlternativeImage filename="OCR-D-CLIP/OCR-D-CLIP_01_region0001.IMG-CLIP.png" comments="binarized,despeckled,binarized,clipped"/>
+        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0001_region0001_line0001.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
+        <Border>
+            <Coords points="66,199 86,2141 918,2187 882,211"/>
+        </Border>
+        <ReadingOrder>
+            <OrderedGroup id="reading-order">
+                <RegionRefIndexed index="0" regionRef="region0000"/>
+                <RegionRefIndexed index="1" regionRef="region0001"/>
+                <RegionRefIndexed index="2" regionRef="region0003"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="Graphic_1661263909828_2594" custom="readingOrder {index:0;}">
+            <Coords points="76,209 872,209 872,2159 76,2159"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

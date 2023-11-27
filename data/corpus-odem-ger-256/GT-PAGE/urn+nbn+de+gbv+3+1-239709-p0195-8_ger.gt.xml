@@ -1,0 +1,26 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="PAGE_01" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>OCR-D/core 2.33.0</Creator>
+        <Created>2022-05-30T06:16:40</Created>
+        <LastChange>2023-03-14T15:14:00.786+01:00</LastChange>
+        <Comments/>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="5" status="IN_PROGRESS"/>
+    </Metadata>
+    <Page imageFilename="MAX/urn+nbn+de+gbv+3+1-239709-p0195-8_ger.png" imageWidth="1589" imageHeight="2316" type="content" primaryLanguage="ger">
+        <AlternativeImage filename="OCR-D-BINPAGE/OCR-D-BINPAGE_01-BIN_sauvola-ms-split.png" comments="binarized"/>
+        <AlternativeImage filename="OCR-D-SEG-PAGE-ANYOCR/OCR-D-SEG-PAGE-ANYOCR_01.IMG-CROP.png" comments="binarized,cropped"/>
+        <AlternativeImage filename="OCR-D-DENOISE-OCROPY/OCR-D-DENOISE-OCROPY_01.IMG-DESPECK.png" comments="binarized,cropped,despeckled"/>
+        <AlternativeImage filename="OCR-D-SEG-BLOCK-TESSERACT/OCR-D-SEG-BLOCK-TESSERACT_01.IMG-BIN.png" comments="binarized,cropped,despeckled,binarized,clipped"/>
+        <Border>
+            <Coords points="124,250 971,250 971,2210 124,2210"/>
+        </Border>
+        <ReadingOrder>
+            <OrderedGroup id="reading-order">
+                <RegionRefIndexed index="0"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="Graphic_1655706070088_149" custom="readingOrder {index:0;}">
+            <Coords points="101,234 1098,234 1098,2036 101,2036"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>
