@@ -32,12 +32,13 @@
   "format": "Page-XML",
   "transcription-guidelines": "OCR-D-GT",
   "volume": {
-    "TxtRegion": "780",
-    "GraphRegion": "18",
-    "SepRegion": "5",
-    "NoiseRegion": "8",
-    "TextLine": "4961",
-    "Page": "128"
+    "TxtRegion": "1402",
+    "ImgRegion": "1",
+    "GraphRegion": "52",
+    "SepRegion": "4",
+    "NoiseRegion": "13",
+    "TextLine": "9331",
+    "Page": "256"
   },
   "labelling": [
     "content-type/corpus",
@@ -49,11 +50,13 @@
     "contentOfInterest/visual/text",
     "contentOfInterest/visual/graphical",
     "contentOfInterest/visual/graphical/separator",
+    "contentOfInterest/visual/image",
     "granularity/physical/document-related/page",
     "granularity/physical/document-related/text-line",
     "granularity/physical/document-related/word",
     "granularity/logical/document-related/paragraph",
     "data-attributes/document-related/structural/footnotes",
+    "data-attributes/document-related/structural/footnote-continued",
     "data-attributes/document-related/structural/running-titles",
     "data-attributes/document-related/visual/text/drop-caps",
     "data-attributes/document-related/visual/text/font/typeface/blackletter",

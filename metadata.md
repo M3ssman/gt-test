@@ -94,11 +94,24 @@ An image database</p>
                     </p>
    </details>
    <details>
+      <summary>contentOfInterest/visual/image</summary>
+      <p>
+         <strong>Description: </strong>
+                        Description coming soon.
+                    </p>
+   </details>
+   <details>
       <summary>contentOfInterest/visual/text</summary>
       <p>
          <strong>Description: </strong>
                         Description coming soon.
                     </p>
+   </details>
+   <details>
+      <summary>data-attributes/document-related/structural/footnote-continued</summary>
+      <p>
+         <strong>Description: </strong>
+      </p>
    </details>
    <details>
       <summary>data-attributes/document-related/structural/footnotes</summary>
@@ -166,7 +179,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/M3ssman/gt-test/releases/tag/v2.1.2">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 20_v2.1.2</a>
+         <a href="https://github.com/M3ssman/gt-test/releases/tag/v3.0.0">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 21_v3.0.0</a>
       </li>
       <li>
          <a href="https://github.com/M3ssman/gt-test/releases">Version archive</a>
@@ -189,6 +202,11 @@ An image database</p>
                   <dd>
                      <a href="https://ocr-d.de/de/gt-guidelines/trans/lytextregion.html"
                         target="_blank">TextRegion</a>
+                  </dd>
+                  <dt>ImgRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lyBildbereiche.html"
+                        target="_blank">ImageRegion</a>
                   </dd>
                   <dt>GraphRegion</dt>
                   <dd>
@@ -219,6 +237,9 @@ An image database</p>
                <button onclick="document.getElementById('table_id').classList.toggle('hide3')">
                   <i>TxtRegion</i>
                </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide4')">
+                  <i>ImgRegion</i>
+               </button>
                <button onclick="document.getElementById('table_id').classList.toggle('hide6')">
                   <i>GraphRegion</i>
                </button>
@@ -238,6 +259,7 @@ An image database</p>
             <th>TextLine</th>
             <th>Page</th>
             <th>TxtRegion</th>
+            <th>ImgRegion</th>
             <th>GraphRegion</th>
             <th>SepRegion</th>
             <th>NoiseRegion</th>
@@ -245,12 +267,13 @@ An image database</p>
       </thead>
       <tbody>
          <tr>
-            <td>4961</td>
-            <td>128</td>
-            <td>780</td>
-            <td>18</td>
-            <td>5</td>
-            <td>8</td>
+            <td>9331</td>
+            <td>256</td>
+            <td>1402</td>
+            <td>1</td>
+            <td>52</td>
+            <td>4</td>
+            <td>13</td>
          </tr>
       </tbody>
    </table>
